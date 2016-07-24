@@ -1,0 +1,3 @@
+The error message tells us that the variable 'shoes' has been called by the program but not been defined.
+
+# Solution adds 'or outside the scope in which the variable has been called.' 
