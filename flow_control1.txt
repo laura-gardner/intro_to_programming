@@ -1,0 +1,14 @@
+Flow Control chapter exercise 1
+
+1. false #correct
+2. false #correct
+3. false #correct
+4. true #correct
+5. true #correct
+# (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false
+# comparisons have highest precedence but we don't have any.
+# equality come next so this evaluates to:
+# (!true || false) || (true || false)
+# finally comes logical OR so this evaluates to:
+# false || true
+# which finally evaluate to true.
