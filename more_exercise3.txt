@@ -1,0 +1,9 @@
+# more_exercise3.txt
+
+Exception handling provides instructions for what to do in case of an exception or error
+arising during execution of a program, for example, if a nil value is unexpectedly returned.
+It stops the program stopping midway through execution if it encounters an error or something unexpected.
+It has to be programmed in using reserved words begin, rescue and end.
+
+So you would use exception handling to define the actions for the program to take if it encounters an error.
+If it doesn't encounter an error, those instructions are never executed.
