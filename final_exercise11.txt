@@ -1,0 +1,11 @@
+# final_exercise11.txt
+
+I found the two official APIs:
+http://ruby-doc.org/ and
+http://api.rubyonrails.org/
+
+I was a bit wary of the Ruby on Rails API as I don't know anything about Rails yet, and there wasn't
+much there that I recognized.  For example, when I looked in the documentation for the Array
+class, most of it looked very strange to me.  In contrast, the Ruby API is starting to look
+familiar to me now, and I'm getting to the point where I understand what it's saying and can
+follow the examples and then use the methods etc. in my code.

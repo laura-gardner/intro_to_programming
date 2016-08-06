@@ -1,0 +1,6 @@
+final_exercise7.txt
+
+An array is a set of elements contained within square brackets and comma separated.
+The elements can be any kind of data, including nested arrays.
+A hash is a set of key-value pairs contained within curly brackets and comma separated.
+Commmonly the keys are symbols but they do not have to be.
